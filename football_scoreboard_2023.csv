@@ -37,7 +37,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-08-25,North Platte,22,Gallatin with Tri-County,6
 2023-08-25,Waynesville,30,Glendale,46
 2023-08-25,Fort Osage,42,Grain Valley,46
-2023-08-25,Skyline with Macks Creek,14,Grandview (Hillsboro),34
+2023-08-25,Skyline,14,Grandview (Hillsboro),34
 2023-08-25,Hannibal,13,Helias Catholic,49
 2023-08-25,Montgomery County,27,Hermann,21
 2023-08-25,Kickapoo,63,Hillcrest,0
@@ -123,7 +123,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-08-25,California,56,Willow Springs,0
 2023-08-25,Herculaneum,6,Windsor (Imperial),7
 2023-08-25,Oak Park,55,Winnetonka,21
-2023-08-25,Winfield with Elsberry,14,Wright City,49
+2023-08-25,Winfield,14,Wright City,49
 2023-08-26,Lutheran South,48,Affton,26
 2023-08-26,Hollister,6,Cassville,44
 2023-08-26,Richmond,38,Central (New Madrid County),50
@@ -137,6 +137,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-08-26,Hazelwood East,6,Parkway North,7
 2023-08-26,Parkway Central,49,Parkway South,28
 2023-08-26,Holt,21,Troy Buchanan,35
+2023-08-26,Southeast with Central (Kansas City),12,University Academy Charter with Maplewood-Richmond Hts.,62
 2023-08-27,Priory,7,Hazelwood West,48
 2023-08-28,McCluer North,26,Soldan International Studies with Sumner,0
 2023-08-31,Chaffee,14,Charleston,12
@@ -147,7 +148,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-08-31,Republic,41,Ozark,14
 2023-08-31,Webster Groves,35,Ritenour,50
 2023-08-31,DeSoto,0,Sullivan,57
-2023-08-31,KIPP KC Legacy,20,University Academy Charter with Ewing Marion Kauffman,48
+2023-08-31,KIPP KC Legacy,20,University Academy Charter with Maplewood-Richmond Hts.,48
 2023-08-31,Washington,18,Warrenton,21
 2023-09-01,Ste. Genevieve,70,Affton,12
 2023-09-01,Cassville,22,Aurora,19
@@ -161,6 +162,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-09-01,Marceline,0,Brookfield,14
 2023-09-01,Fulton,3,California,31
 2023-09-01,Kickapoo,38,Camdenton,21
+2023-09-01,Southeast with Central (Kansas City),14,Cameron,55
 2023-09-01,Battle with Columbia Independent,34,Capital City,37
 2023-09-01,Branson,28,Carthage,14
 2023-09-01,Hillsboro,35,Central (Cape Girardeau),28
@@ -243,7 +245,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-09-01,St. Vincent,14,Scott City,16
 2023-09-01,Butler,28,Sherwood,6
 2023-09-01,Dexter,22,Sikeston,0
-2023-09-01,Cabool,52,Skyline with Macks Creek,6
+2023-09-01,Cabool,52,Skyline,6
 2023-09-01,Timberland,7,SLUH,42
 2023-09-01,Hermann,28,South Callaway,24
 2023-09-01,Seneca,62,Springfield Catholic,0
@@ -270,7 +272,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-09-01,Glendale,7,West Plains,21
 2023-09-01,South Harrison,36,West Platte,45
 2023-09-01,South Shelby,49,Westran,6
-2023-09-01,Mark Twain,18,Winfield with Elsberry,38
+2023-09-01,Mark Twain,18,Winfield,38
 2023-09-02,Parkway West,16,Hazelwood Central,19
 2023-09-02,Jennings,0,John Burroughs,42
 2023-09-02,Parkway Central,36,McCluer,6
@@ -355,7 +357,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-09-08,Odessa,55,Mexico,12
 2023-09-08,Wellington-Napoleon,14,Midway,54
 2023-09-08,Putnam County,6,Milan,36
-2023-09-08,Winfield with Elsberry,19,Moberly,44
+2023-09-08,Winfield,19,Moberly,44
 2023-09-08,Lamar,40,Monett,7
 2023-09-08,Highland,14,Monroe City,30
 2023-09-08,Van-Far,22,Montgomery County,24
@@ -388,10 +390,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-09-08,Northwest (Cedar Hill),7,Seckman,56
 2023-09-08,Cassville,0,Seneca,44
 2023-09-08,Kennett,22,Sikeston,20
-2023-09-08,Fair Grove,68,Skyline with Macks Creek,0
+2023-09-08,Fair Grove,68,Skyline,0
 2023-09-08,Christian Brothers College,49,SLUH,14
 2023-09-08,Warrensburg,47,Smith-Cotton,22
 2023-09-08,Kearney,21,Smithville,41
+2023-09-08,Truman,41,Southeast with Central (Kansas City),6
 2023-09-08,Reeds Spring,47,Springfield Catholic,0
 2023-09-08,Francis Howell North,28,St. Charles,0
 2023-09-08,Lexington,6,St. Michael the Archangel,38
@@ -435,7 +438,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-09-15,Raymore-Peculiar,27,Blue Springs South,20
 2023-09-15,Van-Far,22,Bowling Green,72
 2023-09-15,Nixa,41,Branson,3
-2023-09-15,Skyline with Macks Creek,12,Buffalo,14
+2023-09-15,Skyline,12,Buffalo,14
 2023-09-15,Holden,20,Butler,22
 2023-09-15,Houston,13,Cabool,12
 2023-09-15,Chillicothe,26,Cameron,20
@@ -477,6 +480,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-09-15,Bolivar,13,Lebanon,56
 2023-09-15,Lee's Summit,16,Lee's Summit North,37
 2023-09-15,Staley,7,Lee's Summit West,28
+2023-09-15,Southeast with Central (Kansas City),20,Lexington,58
 2023-09-15,Park Hill,29,Liberty,36
 2023-09-15,Ava,52,Liberty (Mountain View),14
 2023-09-15,Roosevelt with Carnahan,8,Liberty (Wentzville),41
@@ -549,11 +553,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-09-15,Joplin,21,Webb City,38
 2023-09-15,Adrian,47,Wellington-Napoleon,6
 2023-09-15,Rolla,14,West Plains,42
-2023-09-15,University Academy Charter with Ewing Marion Kauffman,22,West Platte,25
+2023-09-15,University Academy Charter with Maplewood-Richmond Hts.,22,West Platte,25
 2023-09-15,Fayette,0,Westran,49
 2023-09-15,Mountain Grove,71,Willow Springs,0
 2023-09-15,Bishop DuBourg with Hancock,14,Windsor (Imperial),51
-2023-09-15,St. Charles West,34,Winfield with Elsberry,0
+2023-09-15,St. Charles West,34,Winfield,0
 2023-09-15,South Callaway,26,Wright City,41
 2023-09-16,Kirkwood,17,Hazelwood Central,0
 2023-09-16,Hazelwood West,55,McCluer North,35
@@ -639,14 +643,15 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-09-22,Mt. Vernon,34,Nevada,55
 2023-09-22,Mark Twain,14,North Callaway,30
 2023-09-22,Central (St. Joseph),24,North Kansas City,14
+2023-09-22,Southeast with Central (Kansas City),22,Northeast (Kansas City),12
 2023-09-22,Eureka,35,Oakville,13
 2023-09-22,Pleasant Hill,24,Odessa,21
-2023-09-22,Winfield with Elsberry,13,Orchard Farm,33
+2023-09-22,Winfield,13,Orchard Farm,33
 2023-09-22,California,17,Osage,14
 2023-09-22,Sullivan,27,Pacific,7
 2023-09-22,Hazelwood Central,52,Parkway Central,17
 2023-09-22,Ladue Horton Watkins,13,Parkway North,24
-2023-09-22,University Academy Charter with Ewing Marion Kauffman,8,Pembroke Hill,21
+2023-09-22,University Academy Charter with Maplewood-Richmond Hts.,8,Pembroke Hill,21
 2023-09-22,Clever,6,Pierce City,21
 2023-09-22,Oak Park,35,Platte County,14
 2023-09-22,South Harrison,6,Polo,21
@@ -664,7 +669,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-09-22,Malden,8,Scott City,62
 2023-09-22,Fox,14,Seckman,27
 2023-09-22,Monett,0,Seneca,56
-2023-09-22,Forsyth,48,Skyline with Macks Creek,8
+2023-09-22,Forsyth,48,Skyline,8
 2023-09-22,Excelsior Springs,6,Smithville,49
 2023-09-22,Louisiana,42,South Callaway,50
 2023-09-22,Logan-Rogersville,28,Springfield Catholic,6
@@ -804,7 +809,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-09-29,Miller,34,Sarcoxie,47
 2023-09-29,Westran,38,Scotland County,7
 2023-09-29,Reeds Spring,21,Seneca,54
-2023-09-29,Clever,15,Skyline with Macks Creek,28
+2023-09-29,Clever,15,Skyline,28
 2023-09-29,Battle with Columbia Independent,20,Smith-Cotton,14
 2023-09-29,Bowling Green,59,South Callaway,7
 2023-09-29,Putnam County,8,South Harrison,28
@@ -828,7 +833,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-09-29,East Buchanan,48,West Platte,13
 2023-09-29,Webb City,43,Willard,16
 2023-09-29,Tipton,48,Windsor,22
-2023-09-29,St. Charles,28,Winfield with Elsberry,9
+2023-09-29,St. Charles,28,Winfield,9
 2023-09-29,William Chrisman,18,Winnetonka,14
 2023-09-29,Montgomery County,34,Wright City,33
 2023-09-30,Harrisburg,20,Ash Grove,30
@@ -838,7 +843,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-09-30,Rockwood Summit,57,McCluer,12
 2023-09-30,Jefferson (Festus),28,Perryville,26
 2023-09-30,Bishop DuBourg with Hancock,23,Roosevelt with Carnahan,28
-2023-09-30,Summit Christian Academy,20,University Academy Charter with Ewing Marion Kauffman,12
+2023-09-30,Summit Christian Academy,20,University Academy Charter with Maplewood-Richmond Hts.,12
 2023-09-30,Ft. Zumwalt North,7,Vashon with Miller Career Academy,34
 2023-09-30,Lutheran South,6,Westminster Christian Academy,49
 2023-10-01,Riverview Gardens,22,Normandy Collaborative,16
@@ -862,7 +867,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-10-06,Springfield Catholic,0,Cassville,42
 2023-10-06,Perryville,12,Central (New Madrid County),47
 2023-10-06,Fredericktown,7,Central (Park Hills),59
-2023-10-06,Skyline with Macks Creek,0,Central (Springfield),37
+2023-10-06,Skyline,0,Central (Springfield),37
 2023-10-06,Scott City,56,Chaffee,14
 2023-10-06,Vianney,7,Christian Brothers College,56
 2023-10-06,Palmyra,22,Clark County,44
@@ -966,7 +971,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-10-06,Owensville,38,Union,35
 2023-10-06,Crystal City,8,Van-Far,14
 2023-10-06,Lone Jack with Kingsville,0,Versailles,43
-2023-10-06,Winfield with Elsberry,6,Warrenton,42
+2023-10-06,Winfield,6,Warrenton,42
 2023-10-06,Butler,30,Warsaw,27
 2023-10-06,Ft. Zumwalt South,42,Washington,32
 2023-10-06,Bolivar,42,Waynesville,29
@@ -1049,6 +1054,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-10-13,Lee's Summit West,21,Lee's Summit North,28
 2023-10-13,Lee's Summit,10,Liberty,15
 2023-10-13,Raymore-Peculiar,0,Liberty North,38
+2023-10-13,Southeast with Central (Kansas City),0,Lincoln College Prep,56
 2023-10-13,Mehlville,0,Lindbergh,35
 2023-10-13,Reeds Spring,17,Logan-Rogersville,13
 2023-10-13,Van-Far,14,Louisiana,0
@@ -1093,7 +1099,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-10-13,Waynesville,7,Rolla,28
 2023-10-13,McDonald County,14,Seneca,38
 2023-10-13,Russellville,0,Sherwood,48
-2023-10-13,Warsaw,34,Skyline with Macks Creek,6
+2023-10-13,Warsaw,34,Skyline,6
 2023-10-13,Helias Catholic,63,Smith-Cotton,0
 2023-10-13,Scotland County,6,South Harrison,38
 2023-10-13,Centralia,14,South Shelby,48
@@ -1115,7 +1121,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-10-13,Parkview,20,West Plains,44
 2023-10-13,Carl Junction,14,Willard,22
 2023-10-13,Crest Ridge with Chilhowee,6,Windsor,26
-2023-10-13,Cuba,0,Winfield with Elsberry,7
+2023-10-13,Cuba,0,Winfield,7
 2023-10-13,Ruskin,7,Winnetonka,6
 2023-10-13,Bowling Green,52,Wright City,6
 2023-10-14,Central (Springfield),20,Boonville,41
@@ -1128,7 +1134,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-10-14,St. Dominic,36,MICDS,19
 2023-10-14,Priory,33,Principia with Whitfield,14
 2023-10-14,Confluence Prep Academy Charter with Grand Center Arts Charter,20,Salisbury,44
-2023-10-14,Van Horn,8,University Academy Charter with Ewing Marion Kauffman,6
+2023-10-14,Van Horn,8,University Academy Charter with Maplewood-Richmond Hts.,6
 2023-10-14,Lift for Life Academy Charter,12,Vashon with Miller Career Academy,8
 2023-10-19,Portageville,43,Central (New Madrid County),0
 2023-10-19,Lutheran St. Charles,37,Chaminade College Prep,48
@@ -1244,6 +1250,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-10-20,Montgomery County,15,South Callaway,44
 2023-10-20,Trenton,49,South Harrison,12
 2023-10-20,Palmyra,0,South Shelby,55
+2023-10-20,Northeast (Kansas City),46,Southeast with Central (Kansas City),6
 2023-10-20,Ft. Zumwalt East,30,St. Charles West,19
 2023-10-20,Westminster Christian Academy,20,St. Dominic,24
 2023-10-20,Pacific,42,St. James,41
@@ -1252,7 +1259,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-10-20,Jefferson (Festus),21,St. Vincent,28
 2023-10-20,North Kansas City,0,Staley,54
 2023-10-20,Pierce City,3,Stockton with Sheldon,28
-2023-10-20,Skyline with Macks Creek,14,Strafford,56
+2023-10-20,Skyline,14,Strafford,56
 2023-10-20,Liberty (Wentzville),14,Troy Buchanan,42
 2023-10-20,Central (St. Joseph),10,Truman,7
 2023-10-20,Hermann,14,Union,49
@@ -1268,13 +1275,13 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-10-20,Penney,64,West Platte,20
 2023-10-20,Platte County,48,William Chrisman,6
 2023-10-20,Cuba,0,Windsor (Imperial),55
-2023-10-20,Fulton,22,Winfield with Elsberry,13
+2023-10-20,Fulton,22,Winfield,13
 2023-10-21,Roosevelt with Carnahan,0,Gateway,44
 2023-10-21,McCluer,30,McCluer North,0
 2023-10-21,Jennings,14,Normandy Collaborative,38
 2023-10-21,Lift for Life Academy Charter,44,Priory,6
 2023-10-21,Hazelwood East,28,Riverview Gardens,6
-2023-10-21,St. Michael the Archangel,41,University Academy Charter with Ewing Marion Kauffman,26
+2023-10-21,St. Michael the Archangel,41,University Academy Charter with Maplewood-Richmond Hts.,26
 2023-10-21,Soldan International Studies with Sumner,0,Vashon with Miller Career Academy,56
 2023-10-26,South Harrison,6,Mid-Buchanan,28
 2023-10-27,Hayti,6,Miller,34
@@ -1307,7 +1314,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-10-27,Lutheran South,14,Owensville,48
 2023-10-27,Cuba,7,St. Clair,55
 2023-10-27,Bayless,6,Bishop DuBourg with Hancock,42
-2023-10-27,Winfield with Elsberry,23,St. Charles West,40
+2023-10-27,Winfield,23,St. Charles West,40
 2023-10-27,Wright City,25,Southern Boone,47
 2023-10-27,Macon,10,Moberly,49
 2023-10-27,Hallsville,18,Centralia,24
@@ -1339,6 +1346,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-10-27,Monett,0,West Plains,50
 2023-10-27,Marshfield,0,McDonald County,41
 2023-10-27,Center,0,Grandview,56
+2023-10-27,Southeast with Central (Kansas City),0,Harrisonville,62
 2023-10-27,Lincoln College Prep,0,Carl Junction,32
 2023-10-27,Excelsior Springs,13,Kirksville,28
 2023-10-27,Benton,6,Kearney,56
@@ -1393,7 +1401,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-11-03,Lincoln,14,North Platte,59
 2023-11-03,Midway,12,Crest Ridge with Chilhowee,21
 2023-11-03,West Platte,0,Windsor,39
-2023-11-03,Skyline with Macks Creek,36,Polo,30
+2023-11-03,Skyline,36,Polo,30
 2023-11-03,Scotland County,0,Milan,44
 2023-11-03,Salisbury,13,Marceline,32
 2023-11-03,Putnam County,12,Westran,13
@@ -1483,7 +1491,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2023-11-10,Van-Far,6,St. Vincent,42
 2023-11-10,Tipton,6,Crystal City,8
 2023-11-10,Crest Ridge with Chilhowee,12,North Platte,46
-2023-11-10,Skyline with Macks Creek,28,Windsor,38
+2023-11-10,Skyline,28,Windsor,38
 2023-11-10,Marceline,21,Milan,26
 2023-11-10,Penney,40,Westran,22
 2023-11-10,Scott City,7,Valle Catholic,43

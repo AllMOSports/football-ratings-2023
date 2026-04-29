@@ -1,6 +1,6 @@
 {
-  "last_updated": "April 29, 2026 at 09:15 PM",
-  "league_average": 26.53,
+  "last_updated": "April 29, 2026 at 09:22 PM",
+  "league_average": 26.55,
   "classification": 1,
   "teams": [
     {
@@ -8,10 +8,10 @@
       "school": "Marionville",
       "classification": 1,
       "district": 1,
-      "ovr_rating": 39.74,
-      "off_rating": 9.75,
+      "ovr_rating": 39.99,
+      "off_rating": 9.87,
       "off_rank": 2,
-      "def_rating": 29.99,
+      "def_rating": 30.12,
       "def_rank": 1
     },
     {
@@ -19,10 +19,10 @@
       "school": "Portageville",
       "classification": 1,
       "district": 1,
-      "ovr_rating": 37.17,
-      "off_rating": 23.19,
+      "ovr_rating": 37.36,
+      "off_rating": 23.42,
       "off_rank": 1,
-      "def_rating": 13.98,
+      "def_rating": 13.94,
       "def_rank": 2
     },
     {
@@ -30,10 +30,10 @@
       "school": "St. Vincent",
       "classification": 1,
       "district": 2,
-      "ovr_rating": 8.34,
-      "off_rating": 4.65,
+      "ovr_rating": 8.6,
+      "off_rating": 4.77,
       "off_rank": 3,
-      "def_rating": 3.69,
+      "def_rating": 3.82,
       "def_rank": 3
     },
     {
@@ -41,10 +41,10 @@
       "school": "North Platte",
       "classification": 1,
       "district": 3,
-      "ovr_rating": -2.17,
-      "off_rating": -0.44,
+      "ovr_rating": -1.91,
+      "off_rating": -0.32,
       "off_rank": 4,
-      "def_rating": -1.73,
+      "def_rating": -1.59,
       "def_rank": 6
     },
     {
@@ -52,10 +52,10 @@
       "school": "Thayer",
       "classification": 1,
       "district": 1,
-      "ovr_rating": -7.93,
-      "off_rating": -8.37,
+      "ovr_rating": -7.67,
+      "off_rating": -8.25,
       "off_rank": 6,
-      "def_rating": 0.44,
+      "def_rating": 0.57,
       "def_rank": 5
     },
     {
@@ -63,10 +63,10 @@
       "school": "Tipton",
       "classification": 1,
       "district": 2,
-      "ovr_rating": -10.0,
-      "off_rating": -8.21,
+      "ovr_rating": -9.74,
+      "off_rating": -8.09,
       "off_rank": 5,
-      "def_rating": -1.79,
+      "def_rating": -1.65,
       "def_rank": 7
     },
     {
@@ -74,10 +74,10 @@
       "school": "Cabool",
       "classification": 1,
       "district": 1,
-      "ovr_rating": -10.35,
-      "off_rating": -13.14,
-      "off_rank": 12,
-      "def_rating": 2.79,
+      "ovr_rating": -9.97,
+      "off_rating": -12.86,
+      "off_rank": 11,
+      "def_rating": 2.89,
       "def_rank": 4
     },
     {
@@ -85,10 +85,10 @@
       "school": "Penney",
       "classification": 1,
       "district": 4,
-      "ovr_rating": -13.19,
-      "off_rating": -9.31,
+      "ovr_rating": -12.93,
+      "off_rating": -9.19,
       "off_rank": 8,
-      "def_rating": -3.88,
+      "def_rating": -3.74,
       "def_rank": 8
     },
     {
@@ -96,10 +96,10 @@
       "school": "Milan",
       "classification": 1,
       "district": 4,
-      "ovr_rating": -15.33,
-      "off_rating": -8.78,
+      "ovr_rating": -15.07,
+      "off_rating": -8.66,
       "off_rank": 7,
-      "def_rating": -6.55,
+      "def_rating": -6.41,
       "def_rank": 11
     },
     {
@@ -107,10 +107,10 @@
       "school": "Van-Far",
       "classification": 1,
       "district": 2,
-      "ovr_rating": -21.5,
-      "off_rating": -17.32,
+      "ovr_rating": -21.24,
+      "off_rating": -17.2,
       "off_rank": 18,
-      "def_rating": -4.18,
+      "def_rating": -4.04,
       "def_rank": 9
     },
     {
@@ -118,10 +118,10 @@
       "school": "Crystal City",
       "classification": 1,
       "district": 2,
-      "ovr_rating": -23.82,
-      "off_rating": -17.6,
+      "ovr_rating": -23.56,
+      "off_rating": -17.48,
       "off_rank": 20,
-      "def_rating": -6.22,
+      "def_rating": -6.09,
       "def_rank": 10
     },
     {
@@ -129,10 +129,10 @@
       "school": "Marceline",
       "classification": 1,
       "district": 4,
-      "ovr_rating": -24.1,
-      "off_rating": -12.88,
+      "ovr_rating": -23.84,
+      "off_rating": -12.75,
       "off_rank": 10,
-      "def_rating": -11.23,
+      "def_rating": -11.09,
       "def_rank": 14
     },
     {
@@ -140,10 +140,10 @@
       "school": "Westran",
       "classification": 1,
       "district": 4,
-      "ovr_rating": -26.58,
-      "off_rating": -16.19,
+      "ovr_rating": -26.32,
+      "off_rating": -16.07,
       "off_rank": 16,
-      "def_rating": -10.39,
+      "def_rating": -10.25,
       "def_rank": 12
     },
     {
@@ -151,10 +151,10 @@
       "school": "Windsor",
       "classification": 1,
       "district": 3,
-      "ovr_rating": -29.79,
-      "off_rating": -17.18,
+      "ovr_rating": -29.53,
+      "off_rating": -17.05,
       "off_rank": 17,
-      "def_rating": -12.62,
+      "def_rating": -12.48,
       "def_rank": 15
     },
     {
@@ -162,10 +162,10 @@
       "school": "Ash Grove",
       "classification": 1,
       "district": 1,
-      "ovr_rating": -30.43,
-      "off_rating": -17.7,
+      "ovr_rating": -30.17,
+      "off_rating": -17.58,
       "off_rank": 21,
-      "def_rating": -12.73,
+      "def_rating": -12.59,
       "def_rank": 16
     },
     {
@@ -173,10 +173,10 @@
       "school": "Harrisburg",
       "classification": 1,
       "district": 2,
-      "ovr_rating": -30.63,
-      "off_rating": -10.4,
+      "ovr_rating": -30.37,
+      "off_rating": -10.28,
       "off_rank": 9,
-      "def_rating": -20.23,
+      "def_rating": -20.09,
       "def_rank": 23
     },
     {
@@ -184,10 +184,10 @@
       "school": "Maysville with Winston",
       "classification": 1,
       "district": 4,
-      "ovr_rating": -32.62,
-      "off_rating": -13.04,
-      "off_rank": 11,
-      "def_rating": -19.58,
+      "ovr_rating": -32.36,
+      "off_rating": -12.92,
+      "off_rank": 12,
+      "def_rating": -19.44,
       "def_rank": 21
     },
     {
@@ -195,10 +195,10 @@
       "school": "Louisiana",
       "classification": 1,
       "district": 2,
-      "ovr_rating": -35.18,
-      "off_rating": -15.83,
+      "ovr_rating": -34.92,
+      "off_rating": -15.71,
       "off_rank": 14,
-      "def_rating": -19.35,
+      "def_rating": -19.22,
       "def_rank": 20
     },
     {
@@ -206,10 +206,10 @@
       "school": "Midway",
       "classification": 1,
       "district": 3,
-      "ovr_rating": -35.63,
-      "off_rating": -17.52,
+      "ovr_rating": -35.37,
+      "off_rating": -17.4,
       "off_rank": 19,
-      "def_rating": -18.11,
+      "def_rating": -17.97,
       "def_rank": 18
     },
     {
@@ -217,10 +217,10 @@
       "school": "Polo",
       "classification": 1,
       "district": 3,
-      "ovr_rating": -35.8,
-      "off_rating": -25.22,
-      "off_rank": 27,
-      "def_rating": -10.58,
+      "ovr_rating": -35.54,
+      "off_rating": -25.09,
+      "off_rank": 28,
+      "def_rating": -10.44,
       "def_rank": 13
     },
     {
@@ -228,10 +228,10 @@
       "school": "Crest Ridge with Chilhowee",
       "classification": 1,
       "district": 3,
-      "ovr_rating": -36.67,
-      "off_rating": -16.15,
+      "ovr_rating": -36.41,
+      "off_rating": -16.03,
       "off_rank": 15,
-      "def_rating": -20.52,
+      "def_rating": -20.38,
       "def_rank": 24
     },
     {
@@ -239,10 +239,10 @@
       "school": "Putnam County",
       "classification": 1,
       "district": 4,
-      "ovr_rating": -40.99,
-      "off_rating": -23.36,
-      "off_rank": 24,
-      "def_rating": -17.64,
+      "ovr_rating": -40.73,
+      "off_rating": -23.23,
+      "off_rank": 25,
+      "def_rating": -17.5,
       "def_rank": 17
     },
     {
@@ -250,10 +250,10 @@
       "school": "Chaffee",
       "classification": 1,
       "district": 2,
-      "ovr_rating": -44.68,
-      "off_rating": -24.65,
-      "off_rank": 25,
-      "def_rating": -20.03,
+      "ovr_rating": -44.42,
+      "off_rating": -24.53,
+      "off_rank": 26,
+      "def_rating": -19.89,
       "def_rank": 22
     },
     {
@@ -261,132 +261,143 @@
       "school": "West Platte",
       "classification": 1,
       "district": 3,
-      "ovr_rating": -44.96,
-      "off_rating": -15.47,
+      "ovr_rating": -44.7,
+      "off_rating": -15.35,
       "off_rank": 13,
-      "def_rating": -29.49,
-      "def_rank": 29
+      "def_rating": -29.36,
+      "def_rank": 30
     },
     {
       "ovr_rank": 25,
-      "school": "Salisbury",
+      "school": "Skyline",
       "classification": 1,
-      "district": 4,
-      "ovr_rating": -46.11,
-      "off_rating": -19.66,
-      "off_rank": 22,
-      "def_rating": -26.45,
-      "def_rank": 28
-    },
-    {
-      "ovr_rank": 26,
-      "school": "Pierce City",
-      "classification": 1,
-      "district": 1,
-      "ovr_rating": -46.29,
-      "off_rating": -27.51,
-      "off_rank": 31,
-      "def_rating": -18.77,
-      "def_rank": 19
-    },
-    {
-      "ovr_rank": 27,
-      "school": "Charleston",
-      "classification": 1,
-      "district": 1,
-      "ovr_rating": -49.86,
-      "off_rating": -26.37,
-      "off_rank": 30,
-      "def_rating": -23.49,
-      "def_rank": 25
-    },
-    {
-      "ovr_rank": 28,
-      "school": "Miller",
-      "classification": 1,
-      "district": 1,
-      "ovr_rating": -51.8,
-      "off_rating": -26.28,
-      "off_rank": 29,
-      "def_rating": -25.53,
-      "def_rank": 27
-    },
-    {
-      "ovr_rank": 29,
-      "school": "Scotland County",
-      "classification": 1,
-      "district": 4,
-      "ovr_rating": -52.92,
-      "off_rating": -27.54,
-      "off_rank": 32,
-      "def_rating": -25.38,
+      "district": 3,
+      "ovr_rating": -45.07,
+      "off_rating": -20.79,
+      "off_rank": 23,
+      "def_rating": -24.28,
       "def_rank": 26
     },
     {
-      "ovr_rank": 30,
-      "school": "Gallatin with Tri-County",
+      "ovr_rank": 26,
+      "school": "Salisbury",
       "classification": 1,
       "district": 4,
-      "ovr_rating": -54.69,
-      "off_rating": -22.5,
-      "off_rank": 23,
-      "def_rating": -32.19,
-      "def_rank": 32
+      "ovr_rating": -45.85,
+      "off_rating": -19.54,
+      "off_rank": 22,
+      "def_rating": -26.31,
+      "def_rank": 29
+    },
+    {
+      "ovr_rank": 27,
+      "school": "Pierce City",
+      "classification": 1,
+      "district": 1,
+      "ovr_rating": -46.03,
+      "off_rating": -27.39,
+      "off_rank": 32,
+      "def_rating": -18.64,
+      "def_rank": 19
+    },
+    {
+      "ovr_rank": 28,
+      "school": "Charleston",
+      "classification": 1,
+      "district": 1,
+      "ovr_rating": -49.6,
+      "off_rating": -26.25,
+      "off_rank": 31,
+      "def_rating": -23.36,
+      "def_rank": 25
+    },
+    {
+      "ovr_rank": 29,
+      "school": "Miller",
+      "classification": 1,
+      "district": 1,
+      "ovr_rating": -51.54,
+      "off_rating": -26.16,
+      "off_rank": 30,
+      "def_rating": -25.39,
+      "def_rank": 28
+    },
+    {
+      "ovr_rank": 30,
+      "school": "Scotland County",
+      "classification": 1,
+      "district": 4,
+      "ovr_rating": -52.66,
+      "off_rating": -27.42,
+      "off_rank": 33,
+      "def_rating": -25.24,
+      "def_rank": 27
     },
     {
       "ovr_rank": 31,
-      "school": "Lincoln",
+      "school": "Gallatin with Tri-County",
       "classification": 1,
-      "district": 3,
-      "ovr_rating": -58.39,
-      "off_rating": -26.14,
-      "off_rank": 28,
-      "def_rating": -32.25,
+      "district": 4,
+      "ovr_rating": -54.43,
+      "off_rating": -22.38,
+      "off_rank": 24,
+      "def_rating": -32.05,
       "def_rank": 33
     },
     {
       "ovr_rank": 32,
-      "school": "Russellville",
+      "school": "Lincoln",
       "classification": 1,
-      "district": 2,
-      "ovr_rating": -58.56,
-      "off_rating": -28.37,
-      "off_rank": 33,
-      "def_rating": -30.2,
-      "def_rank": 30
+      "district": 3,
+      "ovr_rating": -58.13,
+      "off_rating": -26.02,
+      "off_rank": 29,
+      "def_rating": -32.11,
+      "def_rank": 34
     },
     {
       "ovr_rank": 33,
-      "school": "Wellington-Napoleon",
-      "classification": 1,
-      "district": 3,
-      "ovr_rating": -61.23,
-      "off_rating": -25.18,
-      "off_rank": 26,
-      "def_rating": -36.04,
-      "def_rank": 35
-    },
-    {
-      "ovr_rank": 34,
-      "school": "Fayette",
+      "school": "Russellville",
       "classification": 1,
       "district": 2,
-      "ovr_rating": -63.98,
-      "off_rating": -32.35,
+      "ovr_rating": -58.3,
+      "off_rating": -28.24,
       "off_rank": 34,
-      "def_rating": -31.63,
+      "def_rating": -30.06,
       "def_rank": 31
     },
     {
+      "ovr_rank": 34,
+      "school": "Wellington-Napoleon",
+      "classification": 1,
+      "district": 3,
+      "ovr_rating": -60.96,
+      "off_rating": -25.06,
+      "off_rank": 27,
+      "def_rating": -35.91,
+      "def_rank": 36
+    },
+    {
       "ovr_rank": 35,
+      "school": "Fayette",
+      "classification": 1,
+      "district": 2,
+      "ovr_rating": -63.72,
+      "off_rating": -32.23,
+      "off_rank": 35,
+      "def_rating": -31.49,
+      "def_rank": 32
+    },
+    {
+      "ovr_rank": 36,
       "school": "Hayti",
       "classification": 1,
       "district": 1,
-      "ovr_rating": -67.89,
-      "off_rating": -33.23,
-      "off_rank": 35,
-      "def_rating": -34.65,
-      "def_rank": 34
+      "ovr_rating": -67.63,
+      "off_rating": -33.11,
+      "off_rank": 36,
+      "def_rating": -34.51,
+      "def_rank": 35
     }
   ]
 }
