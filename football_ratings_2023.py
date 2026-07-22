@@ -37,11 +37,22 @@ MOV_CAP               = 28    # max points of "error" any single game can contri
 # Team names must match exactly the names in classifications.json.
  
 MANUAL_GAMES = [
-    # NOTE: These are manually-added 2011 games that don't appear on the
-    # MSHSAA scoreboard. The list has been cleared for 2023 since none of
-    # the 2011 entries apply to this season. Re-populate with any 2023
-    # games missing from the scraped scoreboard, in the same format:
-    # ("YYYY-MM-DD", "Team 1 Name", score1, "Team 2 Name", score2)
+    # Added from 2023_Missing_Games.xlsx (games missing from MSHSAA scoreboard).
+    # TODO: the spreadsheet had no date column -- replace "2023-XX-XX" below
+    # with each game's actual date once you have it. Dates don't affect the
+    # rating math (calculate_ratings() ignores them entirely), but they do
+    # feed the scoreboard CSV and the dedup key, so they should be corrected
+    # before treating football_scoreboard_2023.csv as authoritative.
+    ("2023-09-01", "Van-Far", 36, "Russellville", 6),
+    ("2023-09-08", "Russellville", 15, "Diamond", 45),
+    ("2023-09-15", "Russellville", 34, "Carrollton", 12),
+    ("2023-09-22", "Russellville", 22, "Scotland County", 28),
+    ("2023-09-29", "Crystal City", 42, "Russellville", 8),
+    ("2023-10-06", "Russellville", 16, "Polo", 29),
+    ("2023-10-13", "Sherwood", 48, "Russellville", 0),
+    ("2023-10-20", "Russellville", 20, "Crest Ridge", 34),
+    ("2023-10-27", "Russellville", 32, "Fayette", 28),
+    ("2023-11-03", "St. Vincent", 56, "Russellville", 6),
 ]
  
 HEADERS = {
